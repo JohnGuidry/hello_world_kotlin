@@ -1,2 +1,8 @@
-
-*.class
+.metadata
+bin
+target
+.recommenders
+*.orig
+.DS_Store
+common_testData
+kotlin-eclipse-ui-test/lib
